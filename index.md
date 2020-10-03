@@ -18,5 +18,6 @@ Jaskir, A. & Frank, M.J. 	"On the normative advantages of basal ganglia opponenc
 ## Conference abstracts
 
 Jaskir, A. & Frank, M.J. 	"Computational advantages of dopaminergic states for decision making." Computational Cognitive Neuroscience Conference (CCN) 2019. [link](https://ccneuro.org/2019/Papers/ViewPapers.asp?PaperNum=1390)
+
 A Jaskir & Y Niv. "Modeled learning weights predict attention and memory in a
 multidimensional probabilistic task." Reinforcement Learning and Decision Making Conference (RLDM) 2017.
