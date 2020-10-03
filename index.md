@@ -15,6 +15,6 @@ I received my Bacherlor's in Computer Science and a minor in Cognitive Science f
 
 Jaskir, A. & Frank, M.J. 	"On the normative advantages of basal ganglia opponency in risky decision making." (in submission, link coming soon)
 
-## Conference Abstracts
+## Conference papers
 
 Jaskir, A. & Frank, M.J. 	"Computational advantages of dopaminergic states for decision making." CNN 2019. [link](https://ccneuro.org/2019/Papers/ViewPapers.asp?PaperNum=1390)
