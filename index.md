@@ -1,35 +1,8 @@
 ## Welcome
 
-My name is Alana Jaskir, and I am a 3rd year PhD student in Cognitive Science at Brown Univeristy's [Laboratory of Neural Computation and Cognition](https://www.lnccbrown.com/). 
+I am a 3rd year PhD student in Cognitive Science at Brown Univeristy's [Laboratory of Neural Computation and Cognition](https://www.lnccbrown.com/), and I am broadly interested in computational models of human learning and decision-making. I investigate how the brain learns structure and creates useful representations in order to generalize in new contexts.  In my research, I aim to integrate multiple levels of analysis, for example by developing reinforcement learning algorithms (i.e. how to learn by trial-and-error) that draw from biological details of learning and memory.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amjaskir/amjaskir.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
