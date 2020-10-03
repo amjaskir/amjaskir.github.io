@@ -4,7 +4,7 @@ I am a 3rd year PhD student in Cognitive Science at Brown Univeristy's [Laborato
 
 I received my Bacherlor's in Computer Science and a minor in Cognitive Science from Princeton in 2017. I also completed a Fulbright Student fellowship as an English Teaching Assistant in Rivne, Ukraine (2017-2018). 
 
-[One page CV.](/files/Jaskir_CV_onepage.pdf) \\
+[One page CV here.](/files/Jaskir_CV_onepage.pdf) \\
 [Full CV here.](/files/Jaskir_CV.pdf)
 
 ### Affiliate links
