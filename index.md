@@ -24,4 +24,4 @@ A Jaskir & Y Niv. "Modeled learning weights predict attention and memory in a
 multidimensional probabilistic task." Reinforcement Learning and Decision Making Conference (RLDM) 2017.
 
 ## Thesis
-(Undergraduate) Jaskir, A. (2017). [Learning how to learn: the interaction between attention and learning as a mechanism for dimensionality reduction in the brain.](https://nivlab.princeton.edu/sites/default/files/jaskir_thesis.pdf) Department of Computer Science, Princeton University. [Niv lab.](https://nivlab.princeton.edu/)
+(Undergraduate) Jaskir, A. (2017). [Learning how to learn: the interaction between attention and learning as a mechanism for dimensionality reduction in the brain.](https://nivlab.princeton.edu/sites/default/files/jaskir_thesis.pdf) Department of Computer Science, Princeton University. 
