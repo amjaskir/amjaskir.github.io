@@ -14,7 +14,7 @@ I received my Bacherlor's in Computer Science and a minor in Cognitive Science f
 
 ## Publications
 
-Jaskir, A. & M.J. Frank. 2022 	"On the normative advantages of dopamine and striatal opponency for learning and choice."), [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.03.10.483879v1).
+Jaskir, A. & M.J. Frank. 2022 	"On the normative advantages of dopamine and striatal opponency for learning and choice.", [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.03.10.483879v1).
 
 ## Selected Peer-Reviewed Conference Posters
 Jaskir, A., L. Lehnert, M.J. Frank (2022) “Sleep's role in analogous transfer for sequential reinforcement learning”. Winter Conference on Brain Research.
