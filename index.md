@@ -1,6 +1,6 @@
 ## Welcome
 
-I am a 4th year PhD student in Cognitive Science at Brown Univeristy's [Laboratory of Neural Computation and Cognition](https://www.lnccbrown.com/) and am interested broadly in computational models of human learning and decision-making. I investigate how the brain learns structure and creates useful representations in order to generalize in new contexts.  In my research, I aim to integrate multiple levels of analysis, for example by developing reinforcement learning algorithms (i.e. how to learn by trial-and-error) that draw from biological details of learning and memory.
+I am a PhD candidate in Cognitive Science at Brown Univeristy's [Laboratory of Neural Computation and Cognition](https://www.lnccbrown.com/) and am interested broadly in computational models of human learning and decision-making. I investigate how the brain learns structure and creates useful representations in order to generalize in new contexts.  In my research, I aim to integrate multiple levels of analysis, for example by developing reinforcement learning algorithms (i.e. how to learn by trial-and-error) that draw from biological details of learning and memory.
 
 I received my Bacherlor's in Computer Science and a minor in Cognitive Science from Princeton in 2017. I also completed a Fulbright Student fellowship as an English Teaching Assistant in Rivne, Ukraine. 
 
@@ -14,15 +14,17 @@ I received my Bacherlor's in Computer Science and a minor in Cognitive Science f
 
 ## Publications
 
-Jaskir, A. & M.J. Frank. 2022 	"On the normative advantages of dopamine and striatal opponency for learning and choice." [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.03.10.483879v1).
+Jaskir, A. & M.J. Frank. 2022 	"On the normative advantages of dopamine and striatal opponency for learning and choice." [eLife.]([https://www.biorxiv.org/content/10.1101/2022.03.10.483879v1](https://doi.org/10.7554/eLife.85107).
 
 ## Selected Peer-Reviewed Conference Posters
-Jaskir, A., L. Lehnert, M.J. Frank (2022) “Sleep's role in analogous transfer for sequential reinforcement learning”. Winter Conference on Brain Research.
+Jaskir, A., M.J. Frank (2022) “Sleep's role in analogous transfer for sequential reinforcement learning”. RLDM.
+
+Gallo, M., A.A. Hamid, A. Jaskir, T. Pan, D. Ofray, M.J. Frank, C.I. Moore, K.G. Bath (2021) “Early life adversity alters reward learning and decision making mechanisms in mice”. Society for Neuroscience.
 
 Jaskir, A. & M.J. Frank (2019) ["Computational advantages of dopaminergic states for decision making."](https://ccneuro.org/2019/Papers/ViewPapers.asp?PaperNum=1390) Computational Cognitive Neuroscience Conference (CCN)
 
-A Jaskir & Y. Niv. "Modeled learning weights predict attention and memory in a
-multidimensional probabilistic task." Reinforcement Learning and Decision Making Conference (RLDM) 2017.
+Jaskir, A. & Y. Niv. (2017) "Modeled learning weights predict attention and memory in a
+multidimensional probabilistic task." Reinforcement Learning and Decision Making Conference (RLDM)
 
 ## Thesis
 (Undergraduate) Jaskir, A. (2017). [Learning how to learn: the interaction between attention and learning as a mechanism for dimensionality reduction in the brain.](https://nivlab.princeton.edu/sites/default/files/jaskir_thesis.pdf) Department of Computer Science, Princeton University. 
