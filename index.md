@@ -28,3 +28,7 @@ multidimensional probabilistic task." Reinforcement Learning and Decision Making
 
 ## Thesis
 (Undergraduate) Jaskir, A. (2017). [Learning how to learn: the interaction between attention and learning as a mechanism for dimensionality reduction in the brain.](https://nivlab.princeton.edu/sites/default/files/jaskir_thesis.pdf) Department of Computer Science, Princeton University. 
+
+## Media spotlights
+
+Carney Institute for Brain Science, ["Recent discoveries in computational neuroscience hold important implications for how humans learn and make decisions"](https://www.brown.edu/carney/news/2023/04/26/recent-discoveries-computational-neuroscience-hold-important-implications-how-humans)
