@@ -21,6 +21,6 @@ Gallo, M., A.A. Hamid, **A. Jaskir**, J. Bretton, T. Pan, D. Ofray, M.J. Frank, 
 
 ["Carney’s Brainstorm Program Hosts Its Second Annual Brainstorm Challenge Awards"](https://carney.brown.edu/news-events/news/2024/08/05/carney’s-brainstorm-program-hosts-its-second-annual-brainstorm-challenge-awards)
 
-["Five Brown Ph.D. students receive 2023-2024 Graduate Awards in Brain Science"](https://carney.brown.edu/news/2023-06-26/gradawards
+["Five Brown Ph.D. students receive 2023-2024 Graduate Awards in Brain Science"](https://carney.brown.edu/news/2023-06-26/gradawards)
 
 ["Recent discoveries in computational neuroscience hold important implications for how humans learn and make decisions"](https://www.brown.edu/carney/news/2023/04/26/recent-discoveries-computational-neuroscience-hold-important-implications-how-humans)
