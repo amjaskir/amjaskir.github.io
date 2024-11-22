@@ -4,7 +4,7 @@ I am a postdoctoral researcher with [Hartley Lab](https://www.hartleylab.org), w
 
 I completed my Cognitive Science PhD in 2024 with Brown Univeristy's [Laboratory of Neural Computation and Cognition](https://www.lnccbrown.com/). During my PhD, I explored reinforcement learning models and how representations (neural, cognitive, and computational) support flexible and adaptive learning. I received my Bacherlor's in Computer Science and a minor in Cognitive Science from Princeton in 2017. 
 
-[CV](/files/Jaskir_CV.pdf)
+[Click for CV](/files/Jaskir_CV.pdf)
 
 
 ## Publications
