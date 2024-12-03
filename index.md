@@ -19,7 +19,7 @@ Gallo, M., A.A. Hamid, **A. Jaskir**, J. Bretton, T. Pan, D. Ofray, M.J. Frank, 
 
 ## Media spotlights
 
-["Carney’s Brainstorm Program Hosts Its Second Annual Brainstorm Challenge Awards"](https://carney.brown.edu/news-events/news/2024/08/05/carney’s-brainstorm-program-hosts-its-second-annual-brainstorm-challenge-awards)
+["Carney’s Brainstorm Program Hosts Its Second Annual Brainstorm Challenge Awards"](https://carney.brown.edu/news/2024-08-05/brainstorm)
 
 ["Five Brown Ph.D. students receive 2023-2024 Graduate Awards in Brain Science"](https://carney.brown.edu/news/2023-06-26/gradawards)
 
