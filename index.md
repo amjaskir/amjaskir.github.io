@@ -1,8 +1,12 @@
 ## Welcome
 
-I am a postdoctoral researcher with [Hartley Lab](https://www.hartleylab.org), where I am investigating how memory consolidation processes affect learning across development.
+I am a postdoctoral researcher at New York University with [Cate Hartley](https://www.hartleylab.org). 
 
-I completed my Cognitive Science PhD in 2024 with Brown Univeristy's [Laboratory of Neural Computation and Cognition](https://www.lnccbrown.com/). During my PhD, I explored reinforcement learning models and how representations (neural, cognitive, and computational) support flexible and adaptive learning. I received my Bacherlor's in Computer Science and a minor in Cognitive Science from Princeton in 2017. 
+My work examines both how and _why_ different factors – e.g., context, memory consolidation, attention, development – impact our learning. I am particularly interested in how representations – neural, cognitive, and computational – change with time and influence adaptative decision-making.
+
+In my research, I use computational models of reinforcement learning to simulate learning scenarios, analyze behavioral data, and generate hypotheses for experiments. I also draw insights from neural network models of the brain. 
+
+I completed my Cognitive Science PhD at Brown University, working with [Michael J. Frank](https://www.lnccbrown.com/). I received my Bacherlor's in Computer Science and a minor in Cognitive Science from Princeton, during which time I was a research assistant and thesis student with [Yael Niv](https://nivlab.princeton.edu). 
 
 [Click for CV](/files/Jaskir_CV.pdf)
 
