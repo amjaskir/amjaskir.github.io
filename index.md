@@ -11,7 +11,7 @@ I completed my Cognitive Science PhD at Brown University, working with [Michael 
 [Click for CV](/files/Jaskir_CV.pdf)
 
 
-## Publications
+## Select Publications
 
 **Jaskir, A.**, Frank, M.J. (in preparation.). “Discovering analogous structure supports transfer in human reinforcement learning".
 
