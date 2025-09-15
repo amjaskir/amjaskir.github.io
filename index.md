@@ -2,7 +2,7 @@
 
 I am a postdoctoral researcher at New York University with [Cate Hartley](https://www.hartleylab.org). 
 
-My work examines both how and _why_ different factors – e.g., context, memory consolidation, attention, development – impact learning. I am particularly interested in how representations – neural, cognitive, and computational – change with time and affect adaptative behavior.
+My work examines both how and _why_ different factors (e.g., memory consolidation, attention, context, development) impact learning. I am particularly interested in how learned representations – neural, cognitive, and computational – change with time and affect adaptative behavior.
 
 In my research, I use computational models of reinforcement learning to simulate learning scenarios, analyze behavioral data, and generate hypotheses for experiments. I also draw insights from neural network models of the brain. 
 
