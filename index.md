@@ -2,11 +2,11 @@
 
 I am a postdoctoral researcher at New York University with [Cate Hartley](https://www.hartleylab.org). 
 
-My work examines both how and _why_ different factors (e.g., memory consolidation, attention, context, development) impact learning. I am particularly interested in how learned representations – neural, cognitive, and computational – change with time and affect adaptive behavior.
+My work examines both how and _why_ different processes (e.g., memory, attention, development, context) impact learning. I am particularly interested in how learned representations – neural, cognitive, and computational – change with time and affect adaptive behavior.
 
 In my research, I use computational models of reinforcement learning to simulate learning scenarios, analyze behavioral data, and generate hypotheses for experiments. I also draw insights from neural network models of the brain. 
 
-I completed my Cognitive Science PhD at Brown University, working with [Michael J. Frank](https://www.lnccbrown.com/). I received my Bacherlor's in Computer Science and a minor in Cognitive Science from Princeton, during which time I was a research assistant and thesis student with [Yael Niv](https://nivlab.princeton.edu). 
+I completed my Cognitive Science PhD at Brown University, working with [Michael J. Frank](https://www.lnccbrown.com/). I received my Bacherlor's in Computer Science and a minor in Cognitive Science from Princeton, during which time I worked with [Yael Niv](https://nivlab.princeton.edu). 
 
 [Click for CV](/files/Jaskir_CV.pdf)
 
