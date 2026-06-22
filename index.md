@@ -17,7 +17,7 @@ Presently, I am a postdoctoral researcher at New York University with [Cate Hart
 
 **Jaskir, A.**, Frank, M.J. (in preparation.). “Discovering analogous structure supports transfer in human reinforcement learning".
 
-Gallo, M., A.A. Hamid, **A. Jaskir**, T. Pan, D. Ofray, C. DeMaestri, J. Bretton, A.I. More, M.J. Frank, C.I. Moore, K.G. Bath. “Behavioral Opportunism and Altered Dopamine Dynamics in Mice Exposed to Early Life Adversity”. [bioRxiv.](https://www.biorxiv.org/content/10.64898/2025.12.03.692237v1.abstract))
+Gallo, M., A.A. Hamid, **A. Jaskir**, T. Pan, D. Ofray, C. DeMaestri, J. Bretton, A.I. More, M.J. Frank, C.I. Moore, K.G. Bath. “Behavioral Opportunism and Altered Dopamine Dynamics in Mice Exposed to Early Life Adversity”. [bioRxiv.](https://www.biorxiv.org/content/10.64898/2025.12.03.692237v1.abstract)
 
 **Jaskir, A.** & M.J. Frank. 2022 	"On the normative advantages of dopamine and striatal opponency for learning and choice." [eLife.](https://elifesciences.org/articles/85107)
 
