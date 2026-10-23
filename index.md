@@ -2,25 +2,26 @@
 
 Hi there!
 
-I'm a cognitive neuroscientist, and my research examines both how and _why_ different processes (e.g., memory, attention, development, context) impact learning and decision-making. I am particularly interested in how our brains and minds represent learned experiences to support adaptive behavior in an ever-changing world and how these representations evolve with time and new experiences.
+I'm a computational cognitive neuroscientist, and my research broadly examines **how we learn and adapt in an ever-changing world**. I am particularly interested in how we represent our world (computationally, cognitively, neurally), what environmental and individual factors (e.g., mental health, age) influence our learning and decision-making strategies, and how our knowledge evolves with time and new experiences. 
 
-In my work, I use computational models of reinforcement learning to simulate learning scenarios, analyze behavioral data, and generate hypotheses for experiments. I also use neural network models as a source of mechanistic insight when designing experiments.
+In my work, I use **computational models of reinforcement learning** to simulate learning scenarios, analyze behavioral data, and generate hypotheses for experiments. I also employ **neural network models** of learning and memory for mechanistic and theoretical insight when designing experiments and hypotheses. 
 
-I am also excited by applied research and policy at the intersection of AI and cognition, and I am currently a contracted researcher with Google DeepMind examining the cognitive risks and benefits of AI use.  
+I am also excited by applied research and policy at the **intersection of AI and cognition**, and recently worked as a constracted researcher with Google DeepMind examining the cognitive risks and benefits of AI use.  
 
 Presently, I am a postdoctoral researcher at New York University with [Cate Hartley](https://www.hartleylab.org) investigatng the interaction of learning and memory systems during late childhood through young adulthood. I completed my Cognitive Science PhD at Brown University under the mentorship of [Michael J. Frank](https://www.lnccbrown.com/), where I developed biologically-inspired RL models of risk and decision-making and tested model-derived hypotheses of human generalization and creative insight. I received my Bachelor's in Computer Science and a minor in Cognitive Science from Princeton, during which time I completed an undergraduate thesis on the interaction of attention, memory, and learning systems with [Yael Niv](https://nivlab.princeton.edu).
 
 [Click for CV](/files/Jaskir_CV.pdf)
 
 
-## Select Publications
+## Selected Works
 
 **Jaskir, A.**, Frank, M.J. (2026). “Discovery and consolidation of analogous reward structure support generalization in humans". [PsyArXiv](https://doi.org/10.31234/osf.io/w6vkd_v1)
 
-Gallo, M., A.A. Hamid, **A. Jaskir**, T. Pan, D. Ofray, C. DeMaestri, J. Bretton, A.I. More, M.J. Frank, C.I. Moore, K.G. Bath. (2026) “Behavioral Opportunism and Altered Dopamine Dynamics in Mice Exposed to Early Life Adversity”. [bioRxiv.](https://www.biorxiv.org/content/10.64898/2025.12.03.692237v1.abstract)
+Gallo, M., A.A. Hamid, **A. Jaskir**, T. Pan, D. Ofray, C. DeMaestri, J. Bretton, A.I. More, M.J. Frank, C.I. Moore, K.G. Bath. (2026). “Behavioral Opportunism and Altered Dopamine Dynamics in Mice Exposed to Early Life Adversity”. [bioRxiv.](https://www.biorxiv.org/content/10.64898/2025.12.03.692237v1.abstract)
 
-**Jaskir, A.** & M.J. Frank. 2022 	"On the normative advantages of dopamine and striatal opponency for learning and choice." [eLife.](https://elifesciences.org/articles/85107)
+**Jaskir, A.** & M.J. Frank. (2022). "On the normative advantages of dopamine and striatal opponency for learning and choice." [eLife.](https://elifesciences.org/articles/85107)
 
+**Jaskir, A.** & Y. Niv. (2017). "The interaction between attention and learning as a mechanism for dimensionality reduction in the brain." [Princeton Undergraduate Thesis](https://nivlab.princeton.edu/wp-content/uploads/sites/938/2025/09/alanajaskir.pdf)
 
 
 ## Media spotlights
