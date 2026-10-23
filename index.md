@@ -15,7 +15,7 @@ Presently, I am a postdoctoral researcher at New York University with [Cate Hart
 
 ## Select Publications
 
-**Jaskir, A.**, Frank, M.J. (2026). “Discovery and consolidation of analogous reward structure support generalization in humans". [https://doi.org/10.31234/osf.io/w6vkd_v1](https://doi.org/10.31234/osf.io/w6vkd_v1)
+**Jaskir, A.**, Frank, M.J. (2026). “Discovery and consolidation of analogous reward structure support generalization in humans". [PsyArXiv](https://doi.org/10.31234/osf.io/w6vkd_v1)
 
 Gallo, M., A.A. Hamid, **A. Jaskir**, T. Pan, D. Ofray, C. DeMaestri, J. Bretton, A.I. More, M.J. Frank, C.I. Moore, K.G. Bath. (2026) “Behavioral Opportunism and Altered Dopamine Dynamics in Mice Exposed to Early Life Adversity”. [bioRxiv.](https://www.biorxiv.org/content/10.64898/2025.12.03.692237v1.abstract)
 
