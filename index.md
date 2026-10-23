@@ -2,7 +2,7 @@
 
 Hi there!
 
-I'm a computational cognitive neuroscientist, and my research broadly examines **how we learn and adapt in an ever-changing world**. I am particularly interested in how we represent our world (computationally, cognitively, neurally), what environmental and individual factors (e.g., mental health, age) influence our learning and decision-making strategies, and how our knowledge evolves with time and new experiences. 
+I'm a computational cognitive neuroscientist, and my research broadly examines **how we learn and adapt in an ever-changing world**. I am particularly interested in how we represent our world (computationally, cognitively, neurally), what environmental and individual factors (e.g., mental health, age) influence our learning and decision-making strategies, and how our representations/learning strategies evolve with time and new experiences. 
 
 In my work, I use **computational models of reinforcement learning** to simulate learning scenarios, analyze behavioral data, and generate hypotheses for experiments. I also employ **neural network models** of learning and memory for mechanistic and theoretical insight when designing experiments and hypotheses. 
 
