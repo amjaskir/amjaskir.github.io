@@ -11,6 +11,7 @@ I am also excited by applied research and policy at the **intersection of AI and
 Presently, I am a postdoctoral researcher at New York University with [Cate Hartley](https://www.hartleylab.org) investigating the interaction of learning and memory systems during late childhood through young adulthood. I completed my Cognitive Science PhD at Brown University under the mentorship of [Michael J. Frank](https://www.lnccbrown.com/), where I developed biologically-inspired RL models of risk and decision-making and tested model-derived hypotheses of human generalization and creative insight. I received my Bachelor's in Computer Science and a minor in Cognitive Science from Princeton, during which time I completed an undergraduate thesis on the interaction of attention, memory, and learning systems with [Yael Niv](https://nivlab.princeton.edu).
 
 [Click for CV](/files/Jaskir_CV.pdf)
+
 [Click for Resume (One Page)](/files/Jaskir_OnePage.pdf)
 
 
